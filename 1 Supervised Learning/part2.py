@@ -232,8 +232,8 @@ def main_internal(image_folder: str, label_file: str, model_name: str, test_size
 
 
 if __name__ == "__main__":
-    image_folder = "dataset/flickr30k_images/"
-    label_file = "dataset/labels.csv"
+    image_folder = "../dataset/flickr30k_images/"
+    label_file = "../dataset/labels.csv"
     test_size = 0.2
 
     models = [logistic_regression, knn, decision_tree]
