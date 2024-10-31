@@ -1,0 +1,10 @@
+Epoch [1/5], Train Loss: 9.6556, Train Perplexity: 15608.3223
+Epoch [1/5], Val Loss: 7.5479, Val Perplexity: 1896.7874
+Epoch [2/5], Train Loss: 3.7372, Train Perplexity: 41.9811
+Epoch [2/5], Val Loss: 0.7858, Val Perplexity: 2.1942
+Epoch [3/5], Train Loss: 0.7937, Train Perplexity: 2.2115
+Epoch [3/5], Val Loss: 0.7590, Val Perplexity: 2.1362
+Epoch [4/5], Train Loss: 0.7649, Train Perplexity: 2.1488
+Epoch [4/5], Val Loss: 0.7353, Val Perplexity: 2.0860
+Epoch [5/5], Train Loss: 0.7318, Train Perplexity: 2.0788
+Epoch [5/5], Val Loss: 0.6891, Val Perplexity: 1.9919
